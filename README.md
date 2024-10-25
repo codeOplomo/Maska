@@ -73,6 +73,5 @@ Spring Data JPA est un projet de Spring qui simplifie l'interaction avec les bas
 
 ### Spring MVC
 
-Spring MVC est un module du framework Spring qui facilite le développement d'applications web basées sur le modèle MVC (Modèle-Vue-Contrôleur). Il fournit une structure robuste et flexible pour créer des applications web en séparant les préoccupations liées à la présentation, à la logique métier et à la gestion des données. Voici un aperçu des principales caractéristiques et concepts de Spring MVC.
-
-### Installation and Setup                                                                                                                                                                                                                                
+Spring MVC est un module du framework Spring qui facilite le développement d'applications web basées sur le modèle MVC (Modèle-Vue-Contrôleur). Il fournit une structure robuste et flexible pour créer des applications web en séparant les préoccupations liées à la présentation, à la logique métier et à la gestion des données. Voici un aperçu des principales caractéristiques et concepts de Spring MVC.                                                                                                                                                                                                                                                 
+  
